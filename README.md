@@ -1,5 +1,5 @@
 # Practice; "Movie Review Application
 
-### 기술 ㅅ택
+### 기술 스택
     ReactJS
     NodeJS
